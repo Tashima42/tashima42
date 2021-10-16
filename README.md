@@ -3,6 +3,8 @@
 
 ### I'm currently learning:
 * Shell Scripting 
+* Java - Spring Boot
+* RabbitMQ
 
 ### I'm currently working on:
 * [Pomo](https://github.com/Tashima42/pomo) a CLI pomodoro timer
