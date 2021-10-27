@@ -2,8 +2,7 @@
 <h3 align="center">A Free Software Advocate and Integration Engineer from Brazil</h3>
 
 ### I'm currently learning:
-* Shell Scripting 
-* Java - Spring Boot
+* Golang
 * RabbitMQ
 
 ### I'm currently working on:
