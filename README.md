@@ -4,6 +4,7 @@
 ### I'm currently learning:
 * Golang
 * RabbitMQ
+* Redis
 
 ### I'm currently working on:
 * [Pomo](https://github.com/Tashima42/pomo) a CLI pomodoro timer
