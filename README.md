@@ -2,9 +2,9 @@
 <h3 align="center">A Free Software Advocate and Integration Engineer from Brazil</h3>
 
 ### I'm currently learning:
-* Golang
-* RabbitMQ
-* Redis
+* Federation     
+* Scalability on backend services    
+* Spanish    
 
 ### I'm currently working on:
 * [Pomo](https://github.com/Tashima42/pomo) a CLI pomodoro timer
