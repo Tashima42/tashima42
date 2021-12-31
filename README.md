@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Tashima</h1>
-<h3 align="center">A Free Software Advocate and Integration Engineer from Brazil</h3>
+<h3 align="center">A Free Software Advocate and Integrations Technical Specialist from Brazil</h3>
 
 ### I'm currently learning:
 * Federation     
