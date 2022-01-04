@@ -8,7 +8,7 @@
 
 ### I'm currently working on:
 * [Pomo](https://github.com/Tashima42/pomo) a CLI pomodoro timer
-* [PMSH](https://github.com/Tashima42/pmsh) a CLI project manager
+* [TashimaOS](https://github.com/Tashima42/tashima-os) a script to automate my environment setup
 
 ### Connect with me:
 * [Dev Community](https://dev.to/tashima42)
