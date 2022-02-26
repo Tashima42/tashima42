@@ -7,8 +7,8 @@
 * Spanish    
 
 ### I'm currently working on:
-* [Pomo](https://github.com/Tashima42/pomo) a CLI pomodoro timer
-* [TashimaOS](https://github.com/Tashima42/tashima-os) a script to automate my environment setup
+* [hash-id-js](https://github.com/Tashima42/hash-id-js) a hash identifier library
+* [nf-parser](https://github.com/Tashima42/nf-parser) an API that parses brazillian super-markets receipts to JSON.
 
 ### Connect with me:
 * [Dev Community](https://dev.to/tashima42)
