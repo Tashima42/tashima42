@@ -7,6 +7,7 @@
 * Spanish    
 
 ### I'm currently working on:
+* [oauth2-poc](https://github.com/Tashima42/oauth2-poc) OAuth2.0 Proof Of Concept
 * [hash-id-js](https://github.com/Tashima42/hash-id-js) a hash identifier library
 * [nf-parser](https://github.com/Tashima42/nf-parser) an API that parses brazillian super-markets receipts to JSON.
 
