@@ -7,7 +7,7 @@
 * Spanish    
 
 ### I'm currently working on:
-* [nodejs-oauth2-server](https://github.com/Tashima42/nodejs-oauth2-server) OAuth2.0 server with a opinionated subset of the specification. 
+* [nodejs-oauth2-server](https://github.com/Tashima42/nodejs-oauth2-server) OAuth2.0 server with an opinionated subset of the specification. 
 * [hash-id-js](https://github.com/Tashima42/hash-id-js) a hash identifier library
 * [family-plan-manager](https://github.com/Tashima42/family-plan-manager) An API to manage Family Plan Groups.
 
