@@ -2,14 +2,14 @@
 <h3 align="center">An Integrations Technical Specialist from Brazil</h3>
 
 ### I'm currently learning:
-* Authentication servics on depth     
+* Authentication services on depth     
 * Scalability on backend services    
 * Spanish    
 
 ### I'm currently working on:
-* [oauth2-poc](https://github.com/Tashima42/oauth2-poc) OAuth2.0 Proof Of Concept
+* [nodejs-oauth2-server](https://github.com/Tashima42/nodejs-oauth2-server) OAuth2.0 server with a opinionated subset of the specification. 
 * [hash-id-js](https://github.com/Tashima42/hash-id-js) a hash identifier library
-* [nf-parser](https://github.com/Tashima42/nf-parser) an API that parses brazillian super-markets receipts to JSON.
+* [family-plan-manager](https://github.com/Tashima42/family-plan-manager) An API to manage Family Plan Groups.
 
 ### Connect with me:
 * [Dev Community](https://dev.to/tashima42)
